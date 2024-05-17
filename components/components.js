@@ -38,19 +38,19 @@ const Components = () => {
                 className={styles.likeIcon}
                 loading="lazy"
                 alt=""
-                src="/like.svg"
+                src="/like1.svg"
               />
               <img
                 className={styles.commentIcon}
                 loading="lazy"
                 alt=""
-                src="/comment.svg"
+                src="/comment1.svg"
               />
               <img
                 className={styles.repostIcon}
                 loading="lazy"
                 alt=""
-                src="/repost.svg"
+                src="/repost1.svg"
               />
               <img
                 className={styles.sendIcon}

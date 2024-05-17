@@ -14,11 +14,13 @@ body {
   --font-size-xs: 12px;
   --font-size-xl: 20px;
   --font-size-smi: 13px;
+  --font-size-4xs: 9px;
   --font-size-3xl: 22px;
 
   /* Colors */
   --background-alt: #1e1e1e;
   --background-color: #101010;
+  --color-cornflowerblue: #3897f0;
   --text-color-alt: #616161;
   --color-dimgray-100: #4f4f4f;
   --text-color: #fff;
@@ -27,6 +29,7 @@ body {
   --negative-fill-color: #000;
 
   /* Gaps */
+  --gap-5xl: 24px;
   --gap-base: 16px;
   --gap-11xs: 2px;
   --gap-xs: 12px;
@@ -39,8 +42,13 @@ body {
   --padding-29xl: 48px;
   --padding-xs: 12px;
   --padding-base: 16px;
+  --padding-4xs: 9px;
   --padding-5xs: 8px;
   --padding-6xs: 7px;
   --padding-xl: 20px;
   --padding-83xl: 102px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-29xl: 48px;
 }
